@@ -18,9 +18,7 @@ API de autenticação desenvolvida com **ASP.NET Core**, implementando funcional
 
 - ASP.NET Core 8
 - Entity Framework Core
-- SQLite (pode ser substituído por outro banco)
+- MySQL
 - BCrypt.Net (hash de senha)
-- FluentValidation (validações)
 - MailKit (ou `System.Net.Mail` para envio de e-mails)
-- AutoMapper (opcional para DTOs)
 - Swagger para documentação de endpoints
